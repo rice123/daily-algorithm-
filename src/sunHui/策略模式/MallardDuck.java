@@ -1,4 +1,5 @@
-package ²ßÂÔÄ£Ê½;
+package sunHui.ç­–ç•¥æ¨¡å¼;
+
 
 public class MallardDuck extends Duck{
 
@@ -10,7 +11,7 @@ public class MallardDuck extends Duck{
 	}
 	public void display() {
 		
-		System.out.println("ÎÒÊÇMallardDuck£¡");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½MallardDuckï¿½ï¿½");
 	}
 	
 

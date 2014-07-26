@@ -1,10 +1,11 @@
-package ²ßÂÔÄ£Ê½;
+package sunHui.ç­–ç•¥æ¨¡å¼;
+
 
 public class Squeak implements QuackBehavior{
 
 	@Override
 	public void quack() {
-		System.out.println("ßÉßÉßÉ!");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!");
 	}
 	
 

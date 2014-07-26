@@ -1,11 +1,12 @@
-package 策略模式;
+package sunHui.绛栫暐妯″紡;
+
 
 public class MuteQuack implements QuackBehavior{
 
 	@Override
 	public void quack() {
 		// TODO Auto-generated method stub
-		System.out.println("不会叫");
+		System.out.println("gaga");
 	}
 
 }

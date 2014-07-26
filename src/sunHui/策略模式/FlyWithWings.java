@@ -1,11 +1,12 @@
-package 策略模式;
+package sunHui.绛栫暐妯″紡;
+
 
 public class FlyWithWings implements FlyBehavior{
 
 	@Override
 	public void fly() {
 		// TODO Auto-generated method stub
-		System.out.println("我会飞 ");
+		System.out.println("鐢ㄧ繀鑶�椋烇紒");
 	}
 	
 

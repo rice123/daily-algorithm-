@@ -1,4 +1,4 @@
-package ²ßÂÔÄ£Ê½;
+package sunHui.ç­–ç•¥æ¨¡å¼;
 
 public abstract class Duck {
 	FlyBehavior flyBehavior;

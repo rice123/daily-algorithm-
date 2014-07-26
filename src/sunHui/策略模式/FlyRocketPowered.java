@@ -1,11 +1,12 @@
-package ²ßÂÔÄ£Ê½;
+package sunHui.ç­–ç•¥æ¨¡å¼;
+
 
 public class FlyRocketPowered implements FlyBehavior{
 
 	@Override
 	public void fly() {
 		// TODO Auto-generated method stub
-		System.out.println("»ğ¼ı·ÉÑ¼");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Ñ¼");
 	}
 
 }

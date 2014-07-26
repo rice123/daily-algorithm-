@@ -1,4 +1,5 @@
-package ²ßÂÔÄ£Ê½;
+package sunHui.ç­–ç•¥æ¨¡å¼;
+
 
 public interface FlyBehavior {
 

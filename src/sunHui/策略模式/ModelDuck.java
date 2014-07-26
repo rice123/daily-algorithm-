@@ -1,4 +1,5 @@
-package 策略模式;
+package sunHui.绛栫暐妯″紡;
+
 
 public class ModelDuck extends Duck{
 	public ModelDuck()
@@ -10,7 +11,7 @@ public class ModelDuck extends Duck{
 	@Override
 	public void display() {
 		// TODO Auemto-generated method stub
-		System.out.println("我是模型鸭");
+		System.out.println("锟斤拷锟斤拷模锟斤拷鸭");
 	}
 
 }

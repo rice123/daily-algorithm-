@@ -1,9 +1,9 @@
-package ²ßÂÔÄ£Ê½;
+package sunHui.ç­–ç•¥æ¨¡å¼;
 
 public class FlyNoWay implements FlyBehavior {
 	public void fly()
 	{
-		System.out.println("ÎÒ²»»á·É");
+		System.out.println("æˆ‘ä¸ä¼šé£ï¼");
 	}
 	
 
