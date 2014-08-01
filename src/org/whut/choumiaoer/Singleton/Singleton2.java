@@ -1,4 +1,4 @@
-package heShuangyuan.org.whut.singleton;
+package org.whut.choumiaoer.Singleton;
 
 import java.util.HashMap;
 import java.util.Map;

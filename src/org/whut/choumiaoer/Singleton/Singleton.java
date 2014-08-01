@@ -1,4 +1,4 @@
-package heShuangyuan.org.whut.singleton;
+package org.whut.choumiaoer.Singleton;
 
 public  class Singleton {
 	private static Singleton instance=null;

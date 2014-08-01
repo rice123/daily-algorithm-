@@ -1,4 +1,4 @@
-package heShuangyuan.org.whut.singleton;
+package org.whut.choumiaoer.Singleton;
 
 public class Singleton1 {
 	private Singleton1(){		
